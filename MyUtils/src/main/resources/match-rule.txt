@@ -1,0 +1,252 @@
+环节输出数据长度超限#1
+[任务分配失败]任务实例处理异常，任务强制失败#1
+HiveException: Number of dynamic partitions created is#1
+failed: Exceeded scan limit of#1
+Exception in thread ""main"" java.lang.NullPointerException#1
+日志文件大小超出分析限制#1
+java.lang.IndexOutOfBoundsException#1
+Error in query: Window function row_number() requires window to be ordered#1
+java.lang.Exception: 本次抽取行数为0，触发数据0值校验任务失败#1
+ERROR ApplicationMaster: User class threw exception: java.lang.ArrayIndexOutOfBoundsException:#1
+\[ERR\] Remove file .+ failed#0
+write-num 0, :read-num 0, :total-data-size 0#1
+Unable to close file because the last blockBP.*does not have enough number of replicas#0
+gdt id not ready#1
+the data is not ready well!#1
+Fail to run job due to there is no ready directory for under input path#1
+[FATAL]input data is not ready, error#1
+数据发生强报警#1
+删除sku未通过前置校验, 请检查数据#1
+文件检查异常，请检查#1
+\[FATAL\]run check_data_all_dict.*sh failed#0
+SQLNonTransientConnectionException: Could not create connection to database server#1
+商品peanut产品词分区有误#1
+ClickHouseUnknownException.+DB::Exception: Table.+doesn't exist#0
+Caused by: java.lang.ClassNotFoundException:#1
+ls: `hdfs://.+': No such file or directory#0
+put: `.+': No such file or directory#0
+Caused by: java.lang.ArrayIndexOutOfBoundsException#1
+JD:用户(\S+)没有表(\S+)敏感表(\S+)的(\S+)权限#0
+触发dstar任务失败，程序退出#1
+check jar exit code = 1#1
+hive2ck Insert Data Failed#1
+SQLSyntaxErrorException: ORA-00907: missing right parenthesis#1
+ORA-01861: literal does not match format#1
+ClickHouseUnknownException:.+Timeout exceeded: elapsed#0
+ValueError: Expecting : delimiter:#1
+ERROR 2013 (HY000) at line#1
+Unexpected exception: fail to create tablet: timed out. unfinished replicas#1
+Could not open input file for reading. (File file:#1
+ERROR...StarRocks作业出错#1
+AnalysisException: Reference.+is ambiguous, could be:#0
+SyntaxError: invalid syntax#1
+AttributeError: 'NoneType' object has no attribute#1
+BatchUpdateException: ORA-01722: invalid number#1
+平台日志：任务执行完成，退出码#1
+RuntimeException: 数据loading条数不一致#1
+任务状态为EXCEPTION，程序退出#1
+导入条数为0，任务失败#1
+Failed to clean file#1
+AnalysisException: Column .+ not found in schema#0
+java.sql.SQLException: vtgate:.+exceeded timeout:#0
+java.sql.SQLException:.+closed.+CallerID#0
+java.sql.SQLException: vtgate: .+table .+ not found#0
+MySQLSyntaxErrorException: Unknown column#1
+InvalidInputException: Input path does not exist: hdfs://#1
+Uncaught exception: java.lang.ClassNotFoundException:#1
+python3: error while loading shared libraries#1
+git clone failed!#1
+ImportError: No module named#1
+.py: error: unrecognized arguments:#1
+ZeroDivisionError:#1
+java.sql.SQLException:#1
+Exception in thread "main" java.lang.Exception:#1
+TypeError:#1
+rm: `hdfs://.+': No such file or directory#0
+http://decision-engine\.jd\.com.+failed, res code#0
+KeeperException$NoNodeException: KeeperErrorCode = NoNode for#1
+add partition fail#1
+java.lang.Exception: 数据删除异常,任务终止!#1
+CK表loading数据条数与hive表数据条数不一致#1
+数据导入失败.+java.net.SocketTimeoutException: Read timed out#0
+Exception: drop partitions failed !#1
+源表问题，源表不存在#1
+\.sh: line .+: unary operator expected#0
+post_status_to_aiflow 176 FAILED#1
+post_status_to_aiflow 220 FAILED#1
+URLError(error(111, 'Connection refused')#1
+curl: .+ Failed connect to.*; Connection refused#0
+[ERR]#1
+数据导入失败！错误信息为#1
+post_status_to_aiflow \d+ FAILED#0
+NameError:#1
+AnalysisException: Path does not exist:#1
+.py’: No such file or directory#1
+MySQLNonTransientConnectionException: Invalid DataSource#1
+Can't connect to MySQL server on#1
+sqoop: command not found#1
+MySQLSyntaxErrorException: Unknown database#1
+数据验证不通过，退出#1
+后置数据质量校验执行异常#1
+INFO Failed to read external resource#1
+Error in query: Reference.* is ambiguous, could be#0
+Error in query: grouping expressions sequence is empty#1
+Error in query:#1
+Error in query: Table or view not found#1
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space#1
+上游文件写入未完成，Success检验不通过#1
+DATA IS NULL, last check failed#1
+Unavailable prefix <.*>, should be#0
+is not exist!#1
+check_failed#1
+no data...wait...dt:#1
+java.lang.UnsupportedOperationException: empty.reduceLeft#1
+stop One Job 。。。。。。。#1
+分钟未被tasknode领走#1
+FAILURE,diff率为#1
+the check is failed!#1
+put: File does not exist:.*does not have any open files#0
+num of table .* less than 10!#0
+SyntaxError: Non-ASCII character#1
+task: louvain task failed#1
+AlreadyExistsException\(message:Table.*already exists#0
+: import: command not found#1
+状态: [已停止/异常]已经到达最终状态#1
+AnalysisException: cannot resolve.*given input columns:#0
+SyntaxError:#1
+草稿和未知状态的作业不能启动#1
+进行了强制失败操作#1
+进行了终止操作#1
+.sh: No such file or directory#1
+Error during connection to ru.yandex.clickhouse.settings.ClickHouseProperties#1
+读取模板配置异常，异常信息#1
+脚本日志: 作业启动发生异常，异常原因: run-task-exception:任务已删除，不可操作#1
+任务提交失败, 请调整资源申请使队列资源使用量小于队列Min值或组资源使用量小于组配额#1
+平台日志：接受到终止指令#1
+Error in query: cannot resolve .* given input columns:#0
+Exception in thread "main" java.lang.NullPointerException#1
+TypeError: 'NoneType' object is not iterable#1
+Buffalo日志仅展示容器启动时的调度事件，运行时信息请访问九数运行日志:#1
+IndexError: list index out of range#1
+FAILED:#1
+[FATAL]clone code and tar#1
+ValueError:#1
+FATAL#1
+FAILED: ParseException line \d+:\d+ cannot recognize input near .* in table name#0
+Exception: 传参个数不正确#1
+Caused by: org.apache.spark.sql.catalyst.parser.ParseException:#1
+com.mysql.jdbc.exceptions.jdbc4.MySQLQueryInterruptedException: vttablet: rpc error: code = Aborted desc = transaction .*unlocked closed connection#0
+用户【.*】 ,对任务实例【ID:\d+】进行了强制失败操作#0
+ERROR#1
+Caused by:#1
+Table .* AlreadyExistsException#0
+Exception in thread "main" java.io.FileNotFoundException: File.*does not exist#0
+Cannot insert into target table because column number/types are different#1
+observers have failed for read request getFileInfo; also found#1
+Table not found#1
+ValueError: invalid literal for int() with base#1
+/usr/bin/env: python3 : No such file or directory#1
+Unable to create executor due to Unable to register with external shuffle server due to : java.lang.UnsupportedOperationException: Unsupported shuffle manager of executo#1
+py4j.java_gateway:An error occurred while trying to connect#1
+BlockMissingException: Could not obtain block:#1
+bkt数据异常，请检查#1
+MetaException: the table: .* doesn't have the jdhive_storage_policy of the param#0
+Invalid function '`sysdate`' in definition of VIEW#1
+AccessControlException: Cross Region Read NonCR Blocks Failed#1
+diagnostics: Application.* failed .* times due to AM Container for .* exited with exitCode: 13#0
+DECRYPTUDF-0010#1
+DECRYPTUDF-0009#1
+DECRYPTUDF-0008#1
+DECRYPTUDF-0007#1
+DECRYPTUDF-0006#1
+DECRYPTUDF-0005#1
+DECRYPTUDF-0004#1
+DECRYPTUDF-0003#1
+DECRYPTUDF-0002#1
+DECRYPTUDF-0001#1
+PLUMBER-HBASE-0001#1
+PLUMBER-ES-0001#1
+PLUMBER-MYSQL-0004#1
+PLUMBER-MYSQL-0003#1
+PLUMBER-MYSQL-0002#1
+PLUMBER-MYSQL-0001#1
+java.lang.IllegalArgumentException: Buffer size too small#1
+spark_error_00000021#1
+spark_error_00000020#1
+java.io.IOException: failed to create local dir in#1
+yarn_error_00000002#1
+BAIZE-0010#1
+BAIZE-0009#1
+BAIZE-0008#1
+BAIZE-0007#1
+BAIZE-0006#1
+BAIZE-0005#1
+BAIZE-0004#1
+BAIZE-0003#1
+BAIZE-0002#1
+BAIZE-0001#1
+Permission denied: user=.*, access=.+, inode=\"/user/.*\"#0
+spark_error_00000019#1
+SetCommand: 'SET hive.exec.max.dynamic.partitions=\d+' might not work#0
+spark_error_00000018#1
+IOError: \[Errno 32\] Broken pipe#0
+hdfs_error_00000007#1
+java.lang.ClassNotFoundException: Class org.apache.iceberg.mr.hive.HiveIcebergSerDe not found#1
+spark_error_00000017#1
+Caused by: java.lang.ClassNotFoundException: Class org.apache.hudi.hadoop.realtime.HoodieParquetRealtimeInputFormat not found#1
+spark_error_00000016#1
+Uncaught exception: org.apache.hadoop.yarn.exceptions.InvalidResourceRequestException: Invalid resource request, requested memory < 0, or requested memory > max configured, requestedMemory=#1
+spark_error_00000015#1
+The number of running apps in the queue exceeds the limit, please check queue#1
+yarn_error_00000001#1
+Unable to execute method public java.lang.String com.jd.bi.hive.udf.DateFormatUDF.evaluate#1
+hdfs_error_00000006#1
+requires that the data to be inserted have the same number of columns as the target table: target table has .* column#0
+hdfs_error_00000005#1
+org.apache.spark.SparkException: Cannot broadcast the table with 512 million or more rows: .* rows#0
+spark_error_00000014#1
+Caused by: com.esotericsoftware.kryo.KryoException: Buffer overflow. Available#1
+spark_error_00000013#1
+Caused by: java.lang.ClassCastException: org.apache.hadoop.io.Text cannot be cast to org.apache.orc.mapred.OrcMap#1
+hdfs_error_00000008#1
+Unable to execute method public java.lang.String \S+evaluate#0
+udf_error_00000001#1
+YARN-4714#1
+spark_error_00000012#1
+java.lang.OutOfMemoryError: GC overhead limit exceeded#1
+spark_error_00000011#1
+Error in query: Invalid usage of '\*' in expression#0
+spark_error_00000010#1
+Diagnostics: Container killed on request. Exit code is 137#1
+spark_error_00000008#1
+spark_error_00000006#1
+ERROR ApplicationMaster: User application exited with status 143#1
+spark_error_00000007#1
+YarnAllocator: Container killed by YARN for exceeding memory limits.*physical memory used. Consider boosting spark.yarn.executor.memoryOverhead.#0
+spark_error_00000005#1
+TaskMemoryManager: Failed to allocate a page#1
+spark_error_00000003#1
+org.apache.spark.SparkException: Kryo serialization failed: Buffer overflow.#1
+spark_error_00000002#1
+is bigger than spark.driver.maxResultSize#1
+spark_error_00000001#1
+MetaException\(message:JD:用户(\S+)没有表(\S+)敏感表(\S+)的(\S+)权限#0
+iam_error_00000002#1
+Failed to submit application_(\S+) to YARN : User (\S+) cannot submit applications to queue#0
+iam_error_00000001#1
+FAILED: SemanticException \[Error 10001\]: Line (\S+) Table not found#0
+Error in query: Can not create the managed table(\S+) The associated location(\S+) already exists.#0
+hdfs_error_00000002#1
+failed: Error opening Hive split .*: Malformed ORC file. Invalid postscript#0
+hdfs_error_00000001#1
+Caused by: java.io.FileNotFoundException: File does not exist:#1
+buffalo_error_00000003#1
+/bin/sh: line.*Killed.*/bin/bash "\$@"#0
+buffalo_error_00000001#1
+plumber 配置文件#1
+MapReduce Total cumulative CPU time#1
+SPARK_YARN_STAGING_DIR#1
+io.prestosql.spi.PrestoException#1
+Query (\S+) failed#0
+Process memory not enough, cancel top memory overcommit query#1
+the total scan bytes: (\S+) for (\S+) has exceed max bytes for single hive table: (\S+)#0
